@@ -386,7 +386,7 @@ That's it for getting started! As you become comfortable, you can explore additi
 | `/skills` | Manage skills for enhanced capabilities |
 | `/mcp` | Manage MCP server configuration |
 
-> 💡 Skills are covered in detail in [Chapter 05](../05-skills/README.md). MCP servers are covered in [Chapter 06](../06-mcp-servers/README.md).
+> 💡 Agents are covered in [Chapter 04](../04-agents-custom-instructions/README.md), skills are covered in [Chapter 05](../05-skills/README.md), and MCP servers are covered in [Chapter 06](../06-mcp-servers/README.md).
 
 ### Models and Subagents
 
@@ -621,7 +621,7 @@ The examples used `/plan` for a search feature and `-p` for batch reviews. Now t
 1. **Interactive mode** is for exploration and iteration - context carries forward. It's like having a conversation with someone who remembers what you've said up to that point.
 2. **Plan mode** is normally for more involved tasks. Review before implementation.
 3. **Programmatic mode** is for automation. No interaction needed.
-4. **Four essential commands** (`/help`, `/clear`, `/plan`, `/exit`) cover most daily use.
+4. **Essential commands** (`/help`, `/clear`, `/plan`, `/research`, `/model`, `/exit`) cover most daily use.
 
 > 📋 **Quick Reference**: See the [GitHub Copilot CLI command reference](https://docs.github.com/en/copilot/reference/cli-command-reference) for a complete list of commands and shortcuts.
 
